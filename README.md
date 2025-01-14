@@ -9,17 +9,18 @@ Code, chaos, and coffee (and music)—it’s all part of the fun.</h3>
 
 ## About Me
 
-- 🎓 **Economics** at Universitat de València (high academic performance group), due to my passion for business, commerce, and game theory.
+- 📈 **Economics** at Universitat de València (high academic performance group), due to my passion for business, commerce, and game theory.
 - 🎓 Master’s in **Data Analysis and Machine Learning** from EDEM Escuela de Empresarios, driven by my love for technology.
 - 🤖 **AI sparks my passion**—an endless journey of learning and evolving, the perfect match for my drive for constant challenges. I truly believe AI is transforming the world, and I want to be part of that revolution.
 - 🔍 **Worked on some exciting ML projects**, including:
-	- ❤️‍🩹 Heart disease detection models
-	- 📊 Cloud-based sales forecasting SaaS
-	- 🧬 Optimizing vaccine production through AI (_UniversityHack 2024_)
-	- 🩻 X-ray image classification
+	- Heart disease detection models
+	- Cloud-based sales forecasting SaaS
+	- Optimizing vaccine production through AI (_UniversityHack 2024_)
+	- X-ray image classification
 - ⚽ **Always up for sports**—whether it’s football, padel, or hitting the gym, I’m all in.
 - 🎶 **Can’t work without music** (well, I technically can, but music just makes everything better!).
-- 💬 **Feel free to reach out** to chat about AI, football, music, or anything else!
+
+   #### **Feel free to reach out** to chat about AI, football, music, or anything else!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
