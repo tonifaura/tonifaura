@@ -60,3 +60,8 @@ Code, chaos, and coffee (and music)—it’s all part of the fun.</h3>
 
 ### Messaging & Streaming
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=flat-square&logo=apachekafka&logoColor=white)
+
+<hr>
+<h3 align="center" style="color:#4CAF50;"><i>"The best way to predict the future is to create it."</i></h3>
+<p align="center" style="color:#888;">— Alan Kay</p>
+
