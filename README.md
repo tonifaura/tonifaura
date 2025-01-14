@@ -34,45 +34,19 @@ Code, chaos, and coffee (and music)—it’s all part of the fun.</h3>
   </a>
 </p>
 
-## Tech Stash <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
+## Tech Stash <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px">
 
-<div style="display: flex; align-items: center;">
-  <!-- Text Section -->
-  <div style="flex: 1;">
-    <h3>Programming Languages</h3>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python Badge">
-    <h3>Cloud Computing</h3>
-    <img src="https://img.shields.io/badge/Google%20Cloud-%234285F4?style=flat-square&logo=google-cloud&logoColor=white" alt="Google Cloud Badge">
-    <img src="https://img.shields.io/badge/AWS-%23FF9900?style=flat-square&logo=amazon-web-services&logoColor=white" alt="AWS Badge">
-    <h3>Databases</h3>
-    <img src="https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=postgresql&logoColor=white" alt="SQL Badge">
-    <img src="https://img.shields.io/badge/Postgres-%23316192?style=flat-square&logo=postgresql&logoColor=white" alt="Postgres Badge">
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL Badge">
-    <h3>Development & DevOps</h3>
-    <img src="https://img.shields.io/badge/Terraform-%235835CC?style=flat-square&logo=terraform&logoColor=white" alt="Terraform Badge">
-    <img src="https://img.shields.io/badge/VS%20Code-0078D7?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code Badge">
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker Badge">
-    <img src="https://img.shields.io/badge/GitHub-%23121011?style=flat-square&logo=github&logoColor=white" alt="GitHub Badge">
-    <h3>Machine Learning / Deep Learning</h3>
-    <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" alt="Keras Badge">
-    <img src="https://img.shields.io/badge/PyTorch-EA4E2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch Badge">
-    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow Badge">
-    <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="Scikit-learn Badge">
-    <h3>Visualization</h3>
-    <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit Badge">
-    <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" alt="Tableau Badge">
-    <img src="https://img.shields.io/badge/Flask-000?style=flat-square&logo=flask&logoColor=white" alt="Flask Badge">
-    <h3>Big Data / Data Processing</h3>
-    <img src="https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" alt="PySpark Badge">
-    <h3>Messaging & Streaming</h3>
-    <img src="https://img.shields.io/badge/Apache%20Kafka-000?style=flat-square&logo=apachekafka&logoColor=white" alt="Apache Kafka Badge">
-  </div>
+| **Category**                 | **Technologies**                                                                                                                                                                                                                   |
+|------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Programming Languages**    | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)                                                                                        |
+| **Cloud Computing**          | ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4?style=flat-square&logo=google-cloud&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900?style=flat-square&logo=amazon-web-services&logoColor=white) |
+| **Databases**                | ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=postgresql&logoColor=white) ![Postgres](https://img.shields.io/badge/Postgres-%23316192?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
+| **Development & DevOps**     | ![Terraform](https://img.shields.io/badge/Terraform-%235835CC?style=flat-square&logo=terraform&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078D7?style=flat-square&logo=visual-studio-code&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-%23121011?style=flat-square&logo=github&logoColor=white) |
+| **Machine Learning / Deep Learning** | ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EA4E2C?style=flat-square&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) |
+| **Visualization**            | ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000?style=flat-square&logo=flask&logoColor=white) |
+| **Big Data / Data Processing** | ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)                                                                                                                     |
+| **Messaging & Streaming**    | ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=flat-square&logo=apachekafka&logoColor=white)                                                                          |
 
-  <!-- Image Section -->
-  <div style="flex: 1; text-align: center;">
-    <img src="https://github.com/tonifaura/tonifaura/blob/main/111.gif" alt="Custom Image" width="300">
-  </div>
-</div>
 
 
 <hr>
